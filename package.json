@@ -1,0 +1,34 @@
+{
+  "name": "hooks-redux",
+  "version": "1.0.5",
+  "description": "a hooks version of redux",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainuo5213/hooks-redux.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "redux"
+  ],
+  "author": "ainuo5213",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ainuo5213/hooks-redux/issues"
+  },
+  "homepage": "https://github.com/ainuo5213/hooks-redux#readme",
+  "dependencies": {
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
